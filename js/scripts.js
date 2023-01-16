@@ -282,7 +282,7 @@ const questions = [
 
             },
             {
-                "answer": "Mather Luther King  inventou essa folosofia para lutar contra a segregação racial",
+                "answer": "Mather Luther King  inventou essa filosofia para lutar contra a segregação racial",
                 "correct": "false"
 
 
